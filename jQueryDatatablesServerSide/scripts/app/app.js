@@ -37,7 +37,7 @@ $(function () {
 
     $('#btnUpdate').on('click', function () {
         //var table = $('#example').DataTable();
-        table.ajax.reload();
+        table.ajax.reload(null, false);
     });
 
     $('#example tbody').on('change', 'input[type="checkbox"]', function () {
