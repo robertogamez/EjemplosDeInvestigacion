@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4netExampleApp", "Log4ne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jQueryDatatablesServerSide", "jQueryDatatablesServerSide\jQueryDatatablesServerSide.csproj", "{18849B64-F6BE-4A5B-9B4B-DE2886646D9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkMultipleResultados", "EntityFrameworkMultipleResultados\EntityFrameworkMultipleResultados.csproj", "{B055C8B0-F42E-4011-813A-A360D967CAF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{18849B64-F6BE-4A5B-9B4B-DE2886646D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18849B64-F6BE-4A5B-9B4B-DE2886646D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18849B64-F6BE-4A5B-9B4B-DE2886646D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B055C8B0-F42E-4011-813A-A360D967CAF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B055C8B0-F42E-4011-813A-A360D967CAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B055C8B0-F42E-4011-813A-A360D967CAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B055C8B0-F42E-4011-813A-A360D967CAF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
